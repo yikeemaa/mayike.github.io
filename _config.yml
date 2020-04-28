@@ -1,12 +1,10 @@
-title: Yike's Blog
+title: Your awesome title
 author: Yike
 email: vietop09@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-
-找寻真我，回归源头，成为光与爱。
-希望看到的人都能多多少少得到一点启发，鼓励。
-We are all ONE. We are Energy and Light!
-
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -14,35 +12,35 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Yike Ma
-  tagline: 修行者，码农
+  name: Yike
+  tagline: Coder,Meditator
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: yikeemaa
-    github:  yikeemaa
-    linkedIn: in/mayike/
+    twitter: mayike
+    github:  mayike
+    linkedIn: in/mayike
     rss: rss
-    # dribbble: yikeemaa
-    # facebook: yikeemaa
-    # flickr:   yikeemaa
-    # instagram: Yakima
-    # linkedin: in/mayike/
-    # pinterest: yikeemaa
-    # youtube: yikeemaa
-    # youtube_channel: 
-    # youtube_channel_name: 
-    # telegram: 
-    # googleplus: +yikeemaa
-    # microdotblog: 
+    # dribbble: mayike
+    # facebook: mayike
+    # flickr:   mayike
+    # instagram: mayike
+    # linkedin: in/mayike
+    # pinterest: mayike
+    # youtube: mayike
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: mayike
+    # telegram: mayike
+    # googleplus: +mayike
+    # microdotblog: mayike
 
     # Mastodon instances
     # mastodon:
-    # - username: yikeemaa
+    # - username: mayike
     #   instance: example.com
-    # - username: yikeemaa
+    # - username: mayike
     #   instance: example.com
 
 # If you want to link only specific pages in your header, uncomment
@@ -51,8 +49,20 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: jekyll-theme-slate
+theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
