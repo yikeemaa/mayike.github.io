@@ -41,6 +41,20 @@ search: true
 disqus: true
 disqus_url: 'https://yikema.disqus.com/embed.js'
 
+# Reward 赞赏功能 by Ray-Eldath
+reward:
+  enable: true
+  reward_comment: '真诚赞赏 手有余香'
+  wechatpay: 'https://yikeemaa.github.io/assets/wechat.png'
+
+
+# b2t 回到顶部 by Ray-Eldath
+b2t: true
+
+# Share
+social-share: true
+social-share-items: ['wechat', 'weibo', 'douban']
+
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
