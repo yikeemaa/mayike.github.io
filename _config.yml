@@ -1,5 +1,5 @@
-title: yike的博客
-author: yike
+title: Yike的博客
+author: Yike
 email: vietop09@gmail.com
 description: 
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -9,7 +9,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: yike
+  name: Yike
   tagline: 冥想，光与爱，修行
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
