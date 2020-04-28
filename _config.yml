@@ -2,9 +2,11 @@ title: Yike's Blog
 author: Yike
 email: vietop09@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+
+找寻真我，回归源头，成为光与爱。
+希望看到的人都能多多少少得到一点启发，鼓励。
+We are all ONE. We are Energy and Light!
+
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,8 +14,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Yike Ma
+  tagline: 修行者，码农
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
@@ -21,20 +23,20 @@ plainwhite:
   social_links:
     twitter: yikeemaa
     github:  yikeemaa
-    linkedIn: in/thelehhman
+    linkedIn: in/mayike/
     rss: rss
     # dribbble: yikeemaa
     # facebook: yikeemaa
     # flickr:   yikeemaa
-    # instagram: yikeemaa
+    # instagram: Yakima
     # linkedin: yikeemaa
     # pinterest: yikeemaa
     # youtube: yikeemaa
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: yikeemaa
+    # youtube_channel: 
+    # youtube_channel_name: 
+    # telegram: 
     # googleplus: +yikeemaa
-    # microdotblog: yikeemaa
+    # microdotblog: 
 
     # Mastodon instances
     # mastodon:
