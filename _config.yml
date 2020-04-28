@@ -15,22 +15,15 @@ plainwhite:
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
-  social_links:
+social_links:
     instagram: kkkkkkkkkkym_
+    twitter: tiancai09
     linkedIn: in/mayike
-  sns:
+    Facebook:mayike09
+    rss: rss
+sns:
     email: 'mailto:vietop09@gmail.com'
     weibo: '//weibo.com/iaminvincible'
-
-    rss: rss
-    # dribbble: mayike
-    # facebook: mayike
-    # Mastodon instances
-    # mastodon:
-    # - username: mayike
-    #   instance: example.com
-    # - username: mayike
-    #   instance: example.com
 
 # Search
 search: true
