@@ -1,11 +1,10 @@
-title: personal Blog
+title: Yike的博客
 author: Yike
 email: vietop09@gmail.com
-description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: '很高兴能在这里与你分享我修行路上的体验与感悟。' # 站点描述
 show_excerpts: true # set to true to show excerpts on the homepage
+aboutme: Find my true self
+
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -19,29 +18,28 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: mayike09
-    github:  mayike
+    instagram: kkkkkkkkkkym_
     linkedIn: in/mayike
+  sns:
+  email: 'mailto:vietop09@gmail.com'
+  weibo: '//weibo.com/iaminvincible'
+
     rss: rss
     # dribbble: mayike
     # facebook: mayike
-    # flickr:   mayike
-    # instagram: mayike
-    # linkedin: in/mayike
-    # pinterest: mayike
-    # youtube: mayike
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: mayike
-    # telegram: mayike
-    # googleplus: +mayike
-    # microdotblog: mayike
-
     # Mastodon instances
     # mastodon:
     # - username: mayike
     #   instance: example.com
     # - username: mayike
     #   instance: example.com
+
+# Search
+search: true
+
+# Comments
+disqus: true
+disqus_url: 'https://yikema.disqus.com/embed.js'
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
