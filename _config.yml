@@ -15,6 +15,14 @@ plainwhite:
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
+
+social_links:
+    twitter: tiancai09	
+    github:  yikeemaa
+    linkedIn: in/mayike
+    rss: rss
+
+
 sidebar:
   position: left
 
