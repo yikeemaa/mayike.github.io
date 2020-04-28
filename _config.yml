@@ -15,15 +15,21 @@ plainwhite:
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
-social_links:
-    instagram: kkkkkkkkkkym_
-    twitter: tiancai09
-    linkedIn: in/mayike
-    Facebook: mayike09
-    rss: rss
-sns:
-    email: 'mailto:vietop09@gmail.com'
-    weibo: '//weibo.com/iaminvincible'
+sidebar:
+  position: left
+
+site_state: true
+
+social:
+  GitHub: https://github.com/yikeemaa || fab fa-github
+  E-Mail: mailto:vietop09@gmail.com || fa fa-envelope
+  Weibo: https://weibo.com/iaminvincible || fab fa-weibo
+  Twitter: https://twitter.com/tiancai09|| fab fa-twitter
+  FB Page: https://www.facebook.com/mayike09 || fab fa-facebook
+  Instagram: https://instagram.com/kkkkkkkkkkym_ || fab fa-instagram
+
+social_icons:
+  enable: true
 
 # Search
 search: true
