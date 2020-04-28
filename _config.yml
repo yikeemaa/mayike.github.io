@@ -1,7 +1,7 @@
 title: Yike的博客
 author: Yike
 email: vietop09@gmail.com
-description: '很高兴能在这里与你分享我修行路上的体验与感悟。' # 站点描述
+description: 很高兴能在这里与你分享我修行路上的体验与感悟 
 show_excerpts: true # set to true to show excerpts on the homepage
 aboutme: Find my true self
 
@@ -12,7 +12,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Yike
-  tagline: 修行，冥想，light
+  tagline: 冥想，修行，光与爱
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
